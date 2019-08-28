@@ -1,3 +1,4 @@
+github page: https://run-noob.github.io/minium-doc-github/#/
 # Minium Doc
 
 > 微信小程序自动化测试框架官方文档
